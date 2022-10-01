@@ -1,5 +1,6 @@
 BIZOM Data Science Assignment
 Dataset size -
+Dataset link - https://drive.google.com/drive/folders/1ESjyYLhSMVdG3ZC9xPLLvnrHk9w5uOcm
 
 Training Logs:
 
