@@ -6,9 +6,7 @@ Training Logs:
 
 Other details:
 
-No. of Epochs for model 1 -10
-No.of Epochs for model 2 - 10*100=1000
-
+Epochs -10
 Batch Size - 64
 
 
