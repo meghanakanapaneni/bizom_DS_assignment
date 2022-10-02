@@ -1,0 +1,82 @@
+Epoch: 1
+525/? [1:28:26<00:00, 8.68s/it]
+Training Loss model 1: 957.817 Training Accuracy model 1: 38.76%
+Training Loss model 2: 5774.172
+132/? [00:17<00:00, 7.63it/s]
+Validation Loss model 1: 170.890 Validation Accuracy model 1: 50.85%
+Validation Loss model 2: 21.653
+-----------------------------------
+Epoch: 2
+525/? [01:10<00:00, 7.30it/s]
+Training Loss model 1: 483.236 Training Accuracy model 1: 68.73%
+Training Loss model 2: 25.426
+132/? [00:16<00:00, 8.12it/s]
+Validation Loss model 1: 114.577 Validation Accuracy model 1: 69.72%
+Validation Loss model 2: 2.652
+-----------------------------------
+Epoch: 3
+525/? [01:10<00:00, 7.36it/s]
+Training Loss model 1: 327.122 Training Accuracy model 1: 80.14%
+Training Loss model 2: 5.791
+132/? [00:16<00:00, 7.99it/s]
+Validation Loss model 1: 77.260 Validation Accuracy model 1: 81.25%
+Validation Loss model 2: 0.689
+-----------------------------------
+Epoch: 4
+525/? [01:09<00:00, 7.86it/s]
+Training Loss model 1: 264.227 Training Accuracy model 1: 83.84%
+Training Loss model 2: 1.092
+132/? [00:16<00:00, 8.21it/s]
+Validation Loss model 1: 68.148 Validation Accuracy model 1: 83.41%
+Validation Loss model 2: 0.084
+-----------------------------------
+Epoch: 5
+525/? [01:10<00:00, 7.61it/s]
+Training Loss model 1: 225.438 Training Accuracy model 1: 86.37%
+Training Loss model 2: 0.112
+132/? [00:16<00:00, 7.89it/s]
+Validation Loss model 1: 52.859 Validation Accuracy model 1: 87.70%
+Validation Loss model 2: 0.003
+-----------------------------------
+Epoch: 6
+525/? [01:10<00:00, 7.62it/s]
+Training Loss model 1: 199.223 Training Accuracy model 1: 88.01%
+Training Loss model 2: 0.005
+132/? [00:16<00:00, 7.51it/s]
+Validation Loss model 1: 48.167 Validation Accuracy model 1: 88.67%
+Validation Loss model 2: 0.000
+-----------------------------------
+Epoch: 7
+525/? [01:09<00:00, 7.58it/s]
+Training Loss model 1: 179.910 Training Accuracy model 1: 89.15%
+Training Loss model 2: 0.000
+132/? [00:16<00:00, 8.22it/s]
+Validation Loss model 1: 55.063 Validation Accuracy model 1: 86.22%
+Validation Loss model 2: 0.000
+-----------------------------------
+Epoch: 8
+525/? [01:10<00:00, 7.54it/s]
+Training Loss model 1: 165.768 Training Accuracy model 1: 89.97%
+Training Loss model 2: 0.000
+132/? [00:16<00:00, 7.88it/s]
+Validation Loss model 1: 36.880 Validation Accuracy model 1: 91.33%
+Validation Loss model 2: 0.000
+-----------------------------------
+Epoch: 9
+525/? [01:10<00:00, 7.34it/s]
+Training Loss model 1: 152.665 Training Accuracy model 1: 91.01%
+Training Loss model 2: 0.000
+132/? [00:16<00:00, 8.26it/s]
+Validation Loss model 1: 41.155 Validation Accuracy model 1: 89.92%
+Validation Loss model 2: 0.000
+-----------------------------------
+Epoch: 10
+525/? [01:10<00:00, 7.41it/s]
+Training Loss model 1: 144.136 Training Accuracy model 1: 91.12%
+Training Loss model 2: 0.000
+132/? [00:16<00:00, 8.10it/s]
+Validation Loss model 1: 34.962 Validation Accuracy model 1: 91.92%
+Validation Loss model 2: 0.000
+-----------------------------------
+Training Completed in: 101.0 min 44.60 sec
+Finished Training
