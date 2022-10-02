@@ -1,6 +1,6 @@
 BIZOM Data Science Assignment
 
-Dataset size - training set-33000 validation set-8000
+Dataset size - training set-33565 validation set-8431 
 
 Dataset link - https://drive.google.com/drive/folders/1ESjyYLhSMVdG3ZC9xPLLvnrHk9w5uOcm
 
