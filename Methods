@@ -1,0 +1,16 @@
+Methods tried:
+1. Method 1
+   -Trained for 10 epochs
+   -Forward pass model 1, forward pass model 2, backpropagate model 2, back propagate model 1
+   -Training Accuracy model 1 - 91.12%,Validation Accuracy model 1: 91.92%
+2. Method 2
+   -Model 1 trained for 10 epochs, Model 2 trained for 1000 epochs
+   -Forward pass model 1, forward pass model 2, backpropagate model 2 ,train model 2 for 100 epochs, back propagate model 1
+   -It has a better performance with model 2 but taking a lot and time and model 2 is converging in 3 or 4 epochs.
+   Observations:
+   -Training model 2 for more epochs improves accuracy.
+3. Method 3
+   - Trained for 10 epochs
+   - Forward pass model 1, forward pass model 2, backpropagation both losses together i.e., summation of losses
+   - Accuracy is poor compartively
+  
