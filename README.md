@@ -1,6 +1,6 @@
 BIZOM Data Science Assignment
 
-Dataset : training set-33565,validation set-8431 
+Dataset : training set-33565,validation set-8431, test set-350
 
 Dataset link - https://drive.google.com/drive/folders/1ESjyYLhSMVdG3ZC9xPLLvnrHk9w5uOcm
 
